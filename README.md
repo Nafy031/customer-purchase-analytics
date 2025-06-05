@@ -40,7 +40,6 @@ This project is based on customer order data from my own small business — a ha
 - **Python (pandas, matplotlib)**
 - **Data Cleaning & Transformation**
 - **Data Visualization**
-- **SQL Logic**
 - **Jupyter Notebook**
 
 ---
